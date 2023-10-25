@@ -1,0 +1,23 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+li{
+    list-style: none;
+}
+body{
+    background-color:beige
+}
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px ;
+}
+.navegacion{
+    display:flex;
+    gap:10px;
+    align-items:center ;
+
+}
